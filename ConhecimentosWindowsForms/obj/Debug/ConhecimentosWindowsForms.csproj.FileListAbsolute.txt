@@ -1,0 +1,9 @@
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\bin\Debug\ConhecimentosWindowsForms.exe.config
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\bin\Debug\ConhecimentosWindowsForms.exe
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\bin\Debug\ConhecimentosWindowsForms.pdb
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\obj\Debug\ConhecimentosWindowsForms.csprojAssemblyReference.cache
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\obj\Debug\ConhecimentosWindowsForms.Form1.resources
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\obj\Debug\ConhecimentosWindowsForms.Properties.Resources.resources
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\obj\Debug\ConhecimentosWindowsForms.csproj.GenerateResource.cache
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\obj\Debug\ConhecimentosWindowsForms.exe
+C:\Users\silva\OneDrive\Área de Trabalho\C#\ConhecimentosWindowsForms\ConhecimentosWindowsForms\obj\Debug\ConhecimentosWindowsForms.pdb
