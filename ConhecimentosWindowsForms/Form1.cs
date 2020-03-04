@@ -98,7 +98,7 @@ namespace ConhecimentosWindowsForms
 
                 //Banco de dados 
                 //Conexao SQL
-                SqlConnection con = new SqlConnection("Data Source = ; Initial Catalog = EmployeeDB; Integrated Security = True");
+                SqlConnection con = new SqlConnection("Data Source = ; Initial Catalog = ; Integrated Security = True");
 
                 //Insert SQL
                 string sql = $"Insert into Cadastro(Nome,Sobrenome,Cidade,Estado,Idade,Sexo) values(@nome,@sobrenome,@cidade,@estado,@idade,@sexo)";
